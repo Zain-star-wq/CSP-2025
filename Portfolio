@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio</title>
+  </head>
+  <body bgcolor="#c6d19c">
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
+    <center>
+    <h1>This is my Portfolio</h1>
+      <br>
+    <h1>1.1.9 Group Project</h1>
+      <br>
+    <h2> Build Your Own Snowman</h2>
+      <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/Snowman.jpg?raw=true" height="300">
+      <br>
+    <h3>In this project, me and my group created a program in which you create your own customizable snowman. You have the choice when running the game to add or to not add ceratin aspects to the snowman such as the hat, the arms, the eyes, etc. In this example above, the snowman is with all of the cumstomizable asepcts added on.</h3>
+      <br>
+    <h1>1.2.5 Group Project</h1>
+<br>
+    <h2> Minion 2048 </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/unnamed.jpg?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I created a game similar to the online game 2048. 2048 uses numbers in the game but in our code, we used minions in place of the numbers "2","4","8" etc. </h3>
+    <br>
+    <h1>1.3.1 Group Project</h1>
+<br>
+    <h2> Blast-Off Birthday Bash </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/Final%20Project.jpg?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I created a scene in space with Gru's ship from despicable me with minions in it. When clicked the ship explodes and the minions parachute down. When one minion with a "click Here" card is clicked, the card fullscreens and wishes you a happy birthday. </h3>
+ <br>
+    <h1> 2.1.6 Group Project</h1>
+<br>
+    <h2> Phishy Fish Tank </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/phishy_fish_tank.jpg?raw=true" height="500">
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/phishy_fish_tank(1).jpg?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I found out who broke into the fish tank and how they did it. We then. helped out with how to strengthen the code behind everything to keep the resturaunt and the fish inside of it safe. </h3>
+     <br>
+    <h1> Scratch Group Project </h1>
+<br>
+    <h2> Island Escape </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/Island-Escape-on-Scratch-12-17-2024_10_55_AM.png?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I created a game in scratch where you end up on an island and you have to find the materials needed to escape. </h3>
+         <br>
+    <h1> 2.2.7 Group Project </h1>
+<br>
+    <h2> Creating A Command Line GUI </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/2.2.7.png?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I created a GUI for a project. This made communication easy and now we don't have to worry about writing or debugging code. </h3>
+    
+         <br>
+    <h1> 3.1.6 Group Project </h1>
+<br>
+    <h2> Rover Phone Home </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/Desert%20Plains.png?raw=true" height="500">
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/desert_data.png?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I used a chart to see the squiggles of each sensor and figure out how much or little the rover affects that sensor, to figure out where the rover is located. </h3>
+             <br>
+    <h1> 3.1.6 Group Project </h1>
+<br>
+    <h2> Rover Phone Home </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/graphDATA.png?raw=true" height="500">
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/graphDATA2.png?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I graphed data of honey production using the groupby method in order to clean up the data. </h3>
+    </center>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio</title>
+  </head>
+  <body bgcolor="#c6d19c">
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
+    <center>
+    <h1>This is my Portfolio</h1>
+      <br>
+    <h1>1.1.9 Group Project</h1>
+      <br>
+    <h2> Build Your Own Snowman</h2>
+      <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/Snowman.jpg?raw=true" height="300">
+      <br>
+    <h3>In this project, me and my group created a program in which you create your own customizable snowman. You have the choice when running the game to add or to not add ceratin aspects to the snowman such as the hat, the arms, the eyes, etc. In this example above, the snowman is with all of the cumstomizable asepcts added on.</h3>
+      <br>
+    <h1>1.2.5 Group Project</h1>
+<br>
+    <h2> Minion 2048 </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/unnamed.jpg?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I created a game similar to the online game 2048. 2048 uses numbers in the game but in our code, we used minions in place of the numbers "2","4","8" etc. </h3>
+    <br>
+    <h1>1.3.1 Group Project</h1>
+<br>
+    <h2> Blast-Off Birthday Bash </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/Final%20Project.jpg?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I created a scene in space with Gru's ship from despicable me with minions in it. When clicked the ship explodes and the minions parachute down. When one minion with a "click Here" card is clicked, the card fullscreens and wishes you a happy birthday. </h3>
+ <br>
+    <h1> 2.1.6 Group Project</h1>
+<br>
+    <h2> Phishy Fish Tank </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/phishy_fish_tank.jpg?raw=true" height="500">
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/phishy_fish_tank(1).jpg?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I found out who broke into the fish tank and how they did it. We then. helped out with how to strengthen the code behind everything to keep the resturaunt and the fish inside of it safe. </h3>
+     <br>
+    <h1> Scratch Group Project </h1>
+<br>
+    <h2> Island Escape </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/Island-Escape-on-Scratch-12-17-2024_10_55_AM.png?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I created a game in scratch where you end up on an island and you have to find the materials needed to escape. </h3>
+         <br>
+    <h1> 2.2.7 Group Project </h1>
+<br>
+    <h2> Creating A Command Line GUI </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/2.2.7.png?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I created a GUI for a project. This made communication easy and now we don't have to worry about writing or debugging code. </h3>
+    
+         <br>
+    <h1> 3.1.6 Group Project </h1>
+<br>
+    <h2> Rover Phone Home </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/Desert%20Plains.png?raw=true" height="500">
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/desert_data.png?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I used a chart to see the squiggles of each sensor and figure out how much or little the rover affects that sensor, to figure out where the rover is located. </h3>
+             <br>
+    <h1> 3.1.6 Group Project </h1>
+<br>
+    <h2> Rover Phone Home </h2>
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/graphDATA.png?raw=true" height="500">
+    <img src="https://github.com/Cjohnn12/Caleb-s-Website/blob/main/graphDATA2.png?raw=true" height="500">
+    <br>
+    <h3> In this project, my group and I graphed data of honey production using the groupby method in order to clean up the data. </h3>
+    </center>
+  </body>
+</html>
